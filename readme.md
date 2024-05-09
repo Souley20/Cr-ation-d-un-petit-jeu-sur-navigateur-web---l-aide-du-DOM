@@ -1,6 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc68f9f5-1aa3-4dc4-a1ac-2ff2682d59c2/deploy-status)](https://app.netlify.com/sites/dice-game-100/deploys)
-
-## Création d'un petit jeu sur navigateur web à l'aide du DOM.
+## Création d'un petit jeu sur navigateur web à l'aide du DOM à local
 
 ---
 
@@ -21,12 +19,19 @@ Le premier joueur qui atteint les 100 points sur global gagne le jeu.
 
 ---
 
-### Moyens utilisés: 
+### Moyens utilisés:
 
-- [html 5](https://developer.mozilla.org/fr/docs/Web/HTML)
-- [CSS 3](https://developer.mozilla.org/fr/docs/Web/CSS)
-- [Sass](https://sass-lang.com/)
-- [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- Le framework [ionic](https://ionicframework.com/docs/intro/cdn)
-- [google Fonts](https://fonts.google.com/?query=lato)
-- [Nelify](https://www.netlify.com/) pour la mise en ligne.
+- [Visual Studio Code]
+- [PHP 8.2]
+- [html 5]
+- [CSS 3]
+- [Sass]
+- [JavaScript]
+- Le framework [ionic]
+- [google Fonts]
+
+### Test local du projet
+
+- Placez-vous dans indexx.html et cli droit sur la sourie pour lancer le projet avec le PHP server.
+- cela va déclencher l'url (http://localhost:3000) sur le navigateur.
+- Il ne vous reste plus qu'à tester le jeu en sur le navigateur.
